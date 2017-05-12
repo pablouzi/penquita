@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1494561392,
+	"version": 1494616263,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,17 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"achievements.html",
+		"achievement_locked.png",
+		"close.png",
+		"loading.gif",
+		"main.css",
+		"page_achievements.css",
+		"page_leaderboards.css",
+		"style.css",
+		"leaderboards.html",
+		"jquery.equalheights.js",
+		"",
 		"channel.html"
 	]
 }
