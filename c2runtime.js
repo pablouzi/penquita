@@ -16960,6 +16960,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.system_object.prototype.acts.AddVar,
 	cr.plugins_.Facebook.prototype.acts.PromptToShareApp,
-	cr.plugins_.Facebook.prototype.acts.PublishScore
+	cr.plugins_.Facebook.prototype.acts.PublishToWall,
+	cr.plugins_.Browser.prototype.acts.GoToURLWindow
 ];};
 
