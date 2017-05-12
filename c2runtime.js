@@ -16959,7 +16959,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Facebook.prototype.acts.LogIn2,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.system_object.prototype.acts.AddVar,
-	cr.plugins_.Facebook.prototype.acts.PromptToShareLink,
-	cr.plugins_.Facebook.prototype.acts.PublishToWall
+	cr.plugins_.Facebook.prototype.acts.PromptToShareApp,
+	cr.plugins_.Facebook.prototype.acts.PublishScore
 ];};
 
